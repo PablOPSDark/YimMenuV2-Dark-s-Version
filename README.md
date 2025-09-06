@@ -1,3 +1,3 @@
-YimMenuV2 = working
-YimMenuV2-DarksVersion = maintenance
-YimMenuV2-RedT = working
+YimMenuV2 = Working
+YimMenuV2-DarksVersion = En Mantenimiento
+YimMenuV2-RedT = Working
